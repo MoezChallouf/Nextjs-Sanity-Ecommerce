@@ -1,3 +1,11 @@
+Sanity : 
+![image](https://github.com/MoezChallouf/Nextjs-Sanity-Ecommerce/assets/72388621/3936777c-1aea-4e13-a92c-68d0771913fe)
+Web : 
+![image](https://github.com/MoezChallouf/Nextjs-Sanity-Ecommerce/assets/72388621/dbe75d8d-a66e-439b-951f-06e5d9b6c2a6)
+![image](https://github.com/MoezChallouf/Nextjs-Sanity-Ecommerce/assets/72388621/cbada57d-fa41-49e8-8619-49d416b873c0)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
