@@ -1,3 +1,74 @@
+<h1>Zendah Meuble et Deco</h1>
+
+<p>Zendah Meuble et Deco is a leader in the manufacturing of furniture and decor in Tunisia. This repository contains the source code for the full-stack website built using Next.js for the frontend, Sanity as the headless CMS, and various other technologies. The goal of this project is to create a modern and dynamic online platform for showcasing and managing furniture and decor products.</p>
+
+<h2>Table of Contents</h2>
+
+<ul>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#tech-stack">Tech Stack</a></li>
+    <li><a href="#project-structure">Project Structure</a></li>
+    <li><a href="#development">Development</a></li>
+    <li><a href="#deployment">Deployment</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+</ul>
+
+<h2 id="getting-started">Getting Started</h2>
+
+<ol>
+    <li>Clone the repository:</li>
+    <code>
+        git clone https://github.com/your-username/your-repo.git<br>
+        cd your-repo
+    </code>
+    <li>Install dependencies:</li>
+    <code>npm install</code>
+    <li>Set up your environment variables. Refer to the <code>.env.example</code> file for required variables.</li>
+    <li>Run the development server:</li>
+    <code>npm run dev</code>
+    <li>Visit <a href="http://localhost:3000">http://localhost:3000</a> to view the application.</li>
+</ol>
+
+<h2 id="tech-stack">Tech Stack</h2>
+
+<p>
+    <ul>
+        <li><strong>Next.js:</strong> React framework for building the frontend.</li>
+        <li><strong>Sanity:</strong> Headless CMS for managing content.</li>
+        <li><strong>[Add other technologies used]</strong></li>
+    </ul>
+</p>
+
+<h2 id="project-structure">Project Structure</h2>
+
+<p>Describe the organization of your project. Highlight key directories and files.</p>
+
+<h2 id="development">Development</h2>
+
+<p>Explain any development-related information, including coding standards, tools, and best practices.</p>
+
+<h2 id="deployment">Deployment</h2>
+
+<p>Provide instructions on how to deploy the application. Include information about deployment scripts or configuration files.</p>
+
+<h2 id="contributing">Contributing</h2>
+
+<p>If you would like to contribute to the project, follow these steps:</p>
+<ol>
+    <li>Fork the repository.</li>
+    <li>Create a new branch for your feature or bug fix.</li>
+    <li>Make changes and commit them.</li>
+    <li>Push your changes to your fork.</li>
+    <li>Open a pull request.</li>
+</ol>
+<p>Please follow the <a href="CONTRIBUTING.md">Contributing Guidelines</a> for more details.</p>
+
+<h2 id="license">License</h2>
+
+<p>This project is licensed under the <a href="LICENSE.md">MIT License</a>.</p>
+
+
 Sanity : 
 ![image](https://github.com/MoezChallouf/Nextjs-Sanity-Ecommerce/assets/72388621/3936777c-1aea-4e13-a92c-68d0771913fe)
 Web : 
